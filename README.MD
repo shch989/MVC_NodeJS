@@ -9,20 +9,20 @@
 
 # NodeJS 목차
 
-| 목차  | 내용                                      |
-| ----- | ----------------------------------------- |
-| Ch1   | NodeJS에서 Express.js 작업                |
-| Ch2   | 동적 콘텐츠 작업 및 템플릿 엔진 추가      |
-| Ch3   | 모델 뷰 컨트롤러 (MVC)                    |
-| Ch4   | SQL 소개                                  |
-| Ch5   | Sequelize의 이해                          |
+| 목차 | 내용                                 |
+| ---- | ------------------------------------ |
+| Ch1  | NodeJS에서 Express.js 작업           |
+| Ch2  | 동적 콘텐츠 작업 및 템플릿 엔진 추가 |
+| Ch3  | 모델 뷰 컨트롤러 (MVC)               |
+| Ch4  | SQL (MySQL) 소개                     |
+| Ch5  | Sequelize의 이해                     |
 
 <br/>
 <br/>
 
 # NodeJS_File
 
-## NodeJS(v18+) 커리큘럼
+## NodeJS(v16+) 커리큘럼
 
 ### - Express.js 활용
 

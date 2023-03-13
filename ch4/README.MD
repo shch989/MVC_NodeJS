@@ -14,3 +14,22 @@
 
 ## MySQL 설정
 #### https://www.mysql.com/
+
+## MySQL 모듈 설치
+```
+$ npm install --save mysql2
+```
+
+## SQL 데이터베이스 연결
+```
+const mysql = require('mysql2')
+
+const pool = mysql.createPool({
+  host: 'localhost',
+  user: '<user_name>',
+  database: '<db_name>',
+  password: '<db_password>',
+})
+
+module.exports = pool.promise()
+```
